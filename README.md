@@ -40,13 +40,7 @@
 
 ##
 
-### 🌐 GitHub Skyline
-
-<div align="center">
-  <a href="https://skyline.github.com/Mendes1416/2023">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a2b6e3d7b0.png" alt="GitHub Skyline" height="300em">
-  </a>
-</div>
+ 
 
 ##
 
@@ -75,8 +69,3 @@
 
 ##
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mendes1416&theme=tokyo-night&bg_color=1a1b27&color=63e6e2&line=63e6e2&point=ffffff&area=true" alt="GitHub Activity Graph">
-</div>
